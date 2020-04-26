@@ -8,7 +8,9 @@
 
 See:
 
+- [`creational/factory/CircleFactory.java`](src/main/java/com/jashburn/designpatterns/creational/factory/CircleFactory.java)
 - [`creational/factory/CircleFactoryTests.java`](src/test/java/com/jashburn/designpatterns/creational/factory/CircleFactoryTests.java)
+- [`creational/factory/GenericFactory.java`](src/main/java/com/jashburn/designpatterns/creational/factory/GenericFactory.java)
 - [`creational/factory/GenericFactoryTests.java`](src/test/java/com/jashburn/designpatterns/creational/factory/GenericFactoryTests.java)
 
 ### Registry
