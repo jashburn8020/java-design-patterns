@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertSame;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.awt.Color;
 import java.util.List;
-import com.jashburn.designpatterns.creational.factory.model.Circle;
+import com.jashburn.designpatterns.creational.model.Circle;
 import org.junit.jupiter.api.Test;
 
 class GenericFactoryTests {

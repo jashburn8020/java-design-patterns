@@ -1,4 +1,4 @@
-package com.jashburn.designpatterns.creational.factory.model;
+package com.jashburn.designpatterns.creational.model;
 
 import java.awt.Color;
 

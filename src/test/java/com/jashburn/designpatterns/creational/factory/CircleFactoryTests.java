@@ -3,7 +3,7 @@ package com.jashburn.designpatterns.creational.factory;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertTrue;
 import java.util.List;
-import com.jashburn.designpatterns.creational.factory.model.Circle;
+import com.jashburn.designpatterns.creational.model.Circle;
 import org.junit.jupiter.api.Test;
 
 public class CircleFactoryTests {

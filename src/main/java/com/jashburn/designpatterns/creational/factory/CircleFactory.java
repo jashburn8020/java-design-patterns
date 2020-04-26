@@ -4,7 +4,7 @@ import java.util.List;
 import java.util.function.Supplier;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import com.jashburn.designpatterns.creational.factory.model.Circle;
+import com.jashburn.designpatterns.creational.model.Circle;
 
 public interface CircleFactory extends Supplier<Circle> {
 

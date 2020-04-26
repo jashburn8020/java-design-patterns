@@ -14,3 +14,15 @@ See:
 - [`creational/factory/GenericFactoryTests.java`](src/test/java/com/jashburn/designpatterns/creational/factory/GenericFactoryTests.java)
 
 ### Registry
+
+- A registry has the same role as factory - to build other objects
+- The difference is a registry works with a key
+  - pass the key to a factory method to create the instance of the object that you need
+- Adding elements dynamically to a registry can be achieved using the builder pattern
+  - once elements are added to the registry, it needs to be sealed to prevent further elements being added to it
+
+See:
+
+- [`creational/registry/Builder.java`](src/main/java/com/jashburn/designpatterns/creational/registry/Builder.java)
+- [`creational/registry/Registry.java`](src/main/java/com/jashburn/designpatterns/creational/registry/Registry.java)
+- [`creational/registry/RegistryTests.java`](src/test/java/com/jashburn/designpatterns/creational/registry/RegistryTests.java)
